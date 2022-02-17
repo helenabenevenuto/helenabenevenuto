@@ -1,9 +1,11 @@
 ### Olá! Eu sou a Helena Benevenuto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-* 👩‍🔬 Estudante de Química
+* 🧪 Graduanda em Química Industrial pela UFRJ e Técnica em Química pelo IFRJ
+* 👩🏻‍🔬 Estagiária na área de Controle de Qualidade da Bayer
+* 👩🏻‍💻 Aprendendo Python
 * 📍 Rio de Janeiro, Brasil
 
-Atualmente participo de um projeto de Iniciação Científica em programação aplicada à química. [Este projeto](https://github.com/helenabenevenuto/pH-diagrams)
+Participei de um projeto de Iniciação Científica em programação aplicada à química. [Este projeto](https://github.com/helenabenevenuto/pH-diagrams)
 
 ### Contato 📲
 * 🟦 [LinkedIn](https://www.linkedin.com/in/helenabenevenuto/)
